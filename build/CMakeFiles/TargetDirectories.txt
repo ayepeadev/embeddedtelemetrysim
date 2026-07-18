@@ -1,0 +1,3 @@
+/workspaces/embeddedtelemetrysim/build/CMakeFiles/telemetry.dir
+/workspaces/embeddedtelemetrysim/build/CMakeFiles/edit_cache.dir
+/workspaces/embeddedtelemetrysim/build/CMakeFiles/rebuild_cache.dir
